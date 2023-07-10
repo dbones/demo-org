@@ -8,7 +8,7 @@ spec:
   insecureSkipTLSVerify: false
   paths:
     - /cd
-  repo: https://github.com/dbones/demo-platform
+  repo: https://github.com/dbones/demo-platform.git
   targets:
     - clusterSelector:
         matchExpressions:
